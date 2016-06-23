@@ -2,3 +2,4 @@ This is an intro java design patterns
 1. Adapter pattern
 2. Singleton pattern
 3. Observer Pattern
+4. Abstract Factory Pattern
