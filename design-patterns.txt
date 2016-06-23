@@ -3,3 +3,4 @@ This is an intro java design patterns
 2. Singleton pattern
 3. Observer Pattern
 4. Abstract Factory Pattern
+5. Command Pattern
