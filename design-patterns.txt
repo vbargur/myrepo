@@ -5,4 +5,5 @@ This is an intro java design patterns
 4. Abstract Factory Pattern
 5. Command Pattern
 6. Vijay's pattern
+7. test pattern
 
