@@ -3,4 +3,7 @@ This is an intro java design patterns
 2. Singleton pattern
 3. Observer Pattern
 4. Abstract Factory Pattern
+<<<<<<< HEAD
 5. Command Pattern
+=======
+>>>>>>> refs/remotes/origin/master
